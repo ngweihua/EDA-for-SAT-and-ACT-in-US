@@ -1,0 +1,307 @@
+state,participation,total,year,exam
+Alabama,0.05,1165,2017,sat
+Alaska,0.38,1080,2017,sat
+Arizona,0.3,1116,2017,sat
+Arkansas,0.03,1208,2017,sat
+California,0.53,1055,2017,sat
+Colorado,0.11,1201,2017,sat
+Connecticut,1.0,1041,2017,sat
+Delaware,1.0,996,2017,sat
+District of Columbia,1.0,950,2017,sat
+Florida,0.83,1017,2017,sat
+Georgia,0.61,1050,2017,sat
+Hawaii,0.55,1085,2017,sat
+Idaho,0.93,1005,2017,sat
+Illinois,0.09,1115,2017,sat
+Indiana,0.63,1074,2017,sat
+Iowa,0.02,1275,2017,sat
+Kansas,0.04,1260,2017,sat
+Kentucky,0.04,1247,2017,sat
+Louisiana,0.04,1198,2017,sat
+Maine,0.95,1012,2017,sat
+Maryland,0.69,1060,2017,sat
+Massachusetts,0.76,1107,2017,sat
+Michigan,1.0,1005,2017,sat
+Minnesota,0.03,1295,2017,sat
+Mississippi,0.02,1242,2017,sat
+Missouri,0.03,1271,2017,sat
+Montana,0.1,1196,2017,sat
+Nebraska,0.03,1253,2017,sat
+Nevada,0.26,1116,2017,sat
+New Hampshire,0.96,1052,2017,sat
+New Jersey,0.7,1056,2017,sat
+New Mexico,0.11,1138,2017,sat
+New York,0.67,1052,2017,sat
+North Carolina,0.49,1081,2017,sat
+North Dakota,0.02,1256,2017,sat
+Ohio,0.12,1149,2017,sat
+Oklahoma,0.07,1047,2017,sat
+Oregon,0.43,1108,2017,sat
+Pennsylvania,0.65,1071,2017,sat
+Rhode Island,0.71,1062,2017,sat
+South Carolina,0.5,1064,2017,sat
+South Dakota,0.03,1216,2017,sat
+Tennessee,0.05,1228,2017,sat
+Texas,0.62,1020,2017,sat
+Utah,0.03,1238,2017,sat
+Vermont,0.6,1114,2017,sat
+Virginia,0.65,1102,2017,sat
+Washington,0.64,1075,2017,sat
+West Virginia,0.14,1086,2017,sat
+Wisconsin,0.03,1291,2017,sat
+Wyoming,0.03,1230,2017,sat
+Alabama,0.06,1166,2018,sat
+Alaska,0.43,1106,2018,sat
+Arizona,0.29,1149,2018,sat
+Arkansas,0.05,1169,2018,sat
+California,0.6,1076,2018,sat
+Colorado,1.0,1025,2018,sat
+Connecticut,1.0,1053,2018,sat
+Delaware,1.0,998,2018,sat
+District of Columbia,0.92,977,2018,sat
+Florida,0.56,1099,2018,sat
+Georgia,0.7,1064,2018,sat
+Hawaii,0.56,1010,2018,sat
+Idaho,1.0,1001,2018,sat
+Illinois,0.99,1019,2018,sat
+Indiana,0.63,1074,2018,sat
+Iowa,0.03,1265,2018,sat
+Kansas,0.04,1265,2018,sat
+Kentucky,0.04,1248,2018,sat
+Louisiana,0.04,1210,2018,sat
+Maine,0.99,1013,2018,sat
+Maryland,0.76,1080,2018,sat
+Massachusetts,0.8,1125,2018,sat
+Michigan,1.0,1011,2018,sat
+Minnesota,0.04,1298,2018,sat
+Mississippi,0.03,1236,2018,sat
+Missouri,0.04,1262,2018,sat
+Montana,0.1,1198,2018,sat
+Nebraska,0.03,1252,2018,sat
+Nevada,0.23,1140,2018,sat
+New Hampshire,0.96,1063,2018,sat
+New Jersey,0.82,1094,2018,sat
+New Mexico,0.16,1093,2018,sat
+New York,0.79,1068,2018,sat
+North Carolina,0.52,1098,2018,sat
+North Dakota,0.02,1283,2018,sat
+Ohio,0.18,1099,2018,sat
+Oklahoma,0.08,1062,2018,sat
+Oregon,0.48,1117,2018,sat
+Pennsylvania,0.7,1086,2018,sat
+Rhode Island,0.97,1018,2018,sat
+South Carolina,0.55,1070,2018,sat
+South Dakota,0.03,1240,2018,sat
+Tennessee,0.06,1231,2018,sat
+Texas,0.66,1032,2018,sat
+Utah,0.04,1010,2018,sat
+Vermont,0.64,1120,2018,sat
+Virginia,0.68,1117,2018,sat
+Washington,0.69,1081,2018,sat
+West Virginia,0.28,999,2018,sat
+Wisconsin,0.03,1294,2018,sat
+Wyoming,0.03,1257,2018,sat
+Alabama,0.07,1143,2019,sat
+Alaska,0.41,1097,2019,sat
+Arizona,0.31,1134,2019,sat
+Arkansas,0.06,1141,2019,sat
+California,0.63,1065,2019,sat
+Colorado,1.0,1024,2019,sat
+Connecticut,1.0,1046,2019,sat
+Delaware,1.0,985,2019,sat
+District of Columbia,0.94,975,2019,sat
+Florida,1.0,999,2019,sat
+Georgia,0.71,1058,2019,sat
+Hawaii,0.54,1100,2019,sat
+Idaho,1.0,993,2019,sat
+Illinois,1.0,1013,2019,sat
+Indiana,0.66,1080,2019,sat
+Iowa,0.03,1244,2019,sat
+Kansas,0.04,1241,2019,sat
+Kentucky,0.04,1232,2019,sat
+Louisiana,0.05,1200,2019,sat
+Maine,0.99,1013,2019,sat
+Maryland,0.82,1058,2019,sat
+Massachusetts,0.81,1120,2019,sat
+Michigan,1.0,1003,2019,sat
+Minnesota,0.04,1284,2019,sat
+Mississippi,0.03,1237,2019,sat
+Missouri,0.04,1236,2019,sat
+Montana,0.09,1199,2019,sat
+Nebraska,0.03,1260,2019,sat
+Nevada,0.2,1156,2019,sat
+New Hampshire,0.95,1059,2019,sat
+New Jersey,0.82,1090,2019,sat
+New Mexico,0.18,1073,2019,sat
+New York,0.79,1064,2019,sat
+North Carolina,0.51,1100,2019,sat
+North Dakota,0.02,1263,2019,sat
+Ohio,0.19,1097,2019,sat
+Oklahoma,0.22,963,2019,sat
+Oregon,0.51,1112,2019,sat
+Pennsylvania,0.7,1082,2019,sat
+Rhode Island,1.0,995,2019,sat
+South Carolina,0.68,1030,2019,sat
+South Dakota,0.03,1268,2019,sat
+Tennessee,0.07,1220,2019,sat
+Texas,0.68,1022,2019,sat
+Utah,0.04,1230,2019,sat
+Vermont,0.66,1106,2019,sat
+Virginia,0.68,1119,2019,sat
+Washington,0.7,1074,2019,sat
+West Virginia,0.99,943,2019,sat
+Wisconsin,0.03,1283,2019,sat
+Wyoming,0.03,1238,2019,sat
+Alabama,1.0,19.2,2017,act
+Alaska,0.65,19.8,2017,act
+Arizona,0.62,19.7,2017,act
+Arkansas,1.0,19.4,2017,act
+California,0.31,22.8,2017,act
+Colorado,1.0,20.8,2017,act
+Connecticut,0.31,25.2,2017,act
+Delaware,0.18,24.1,2017,act
+District of Columbia,0.32,24.2,2017,act
+Florida,0.73,19.8,2017,act
+Georgia,0.55,21.4,2017,act
+Hawaii,0.9,19.0,2017,act
+Idaho,0.38,22.3,2017,act
+Illinois,0.93,21.4,2017,act
+Indiana,0.35,22.6,2017,act
+Iowa,0.67,21.9,2017,act
+Kansas,0.73,21.7,2017,act
+Kentucky,1.0,20.0,2017,act
+Louisiana,1.0,19.5,2017,act
+Maine,0.08,24.3,2017,act
+Maryland,0.28,23.6,2017,act
+Massachusetts,0.29,25.4,2017,act
+Michigan,0.29,24.1,2017,act
+Minnesota,1.0,21.5,2017,act
+Mississippi,1.0,18.6,2017,act
+Missouri,1.0,20.4,2017,act
+Montana,1.0,20.3,2017,act
+Nebraska,0.84,21.4,2017,act
+Nevada,1.0,17.8,2017,act
+New Hampshire,0.18,25.5,2017,act
+New Jersey,0.34,23.9,2017,act
+New Mexico,0.66,19.7,2017,act
+New York,0.31,24.2,2017,act
+North Carolina,1.0,19.1,2017,act
+North Dakota,0.98,20.3,2017,act
+Ohio,0.75,22.0,2017,act
+Oklahoma,1.0,19.4,2017,act
+Oregon,0.4,21.8,2017,act
+Pennsylvania,0.23,23.7,2017,act
+Rhode Island,0.21,24.0,2017,act
+South Carolina,1.0,18.7,2017,act
+South Dakota,0.8,21.8,2017,act
+Tennessee,1.0,19.8,2017,act
+Texas,0.45,20.7,2017,act
+Utah,1.0,20.3,2017,act
+Vermont,0.29,23.6,2017,act
+Virginia,0.29,23.8,2017,act
+Washington,0.29,21.9,2017,act
+West Virginia,0.69,20.4,2017,act
+Wisconsin,1.0,20.5,2017,act
+Wyoming,1.0,20.2x,2017,act
+Alabama,1.0,19.1,2018,act
+Alaska,0.33,20.8,2018,act
+Arizona,0.66,19.2,2018,act
+Arkansas,1.0,19.4,2018,act
+California,0.27,22.7,2018,act
+Colorado,0.3,23.9,2018,act
+Connecticut,0.26,25.6,2018,act
+Delaware,0.17,23.8,2018,act
+District of columbia,0.32,23.6,2018,act
+Florida,0.66,19.9,2018,act
+Georgia,0.53,21.4,2018,act
+Hawaii,0.89,18.9,2018,act
+Idaho,0.36,22.3,2018,act
+Illinois,0.43,23.9,2018,act
+Indiana,0.32,22.5,2018,act
+Iowa,0.68,21.8,2018,act
+Kansas,0.71,21.6,2018,act
+Kentucky,1.0,20.2,2018,act
+Louisiana,1.0,19.2,2018,act
+Maine,0.07,24.0,2018,act
+Maryland,0.31,22.5,2018,act
+Massachusetts,0.25,25.5,2018,act
+Michigan,0.22,24.2,2018,act
+Minnesota,0.99,21.3,2018,act
+Mississippi,1.0,18.6,2018,act
+Missouri,1.0,20.0,2018,act
+Montana,1.0,20.0,2018,act
+Nebraska,1.0,20.1,2018,act
+Nevada,1.0,17.7,2018,act
+New Hampshire,0.16,25.1,2018,act
+New Jersey,0.31,23.7,2018,act
+New Mexico,0.67,19.4,2018,act
+New York,0.27,24.5,2018,act
+North Carolina,1.0,19.1,2018,act
+North Dakota,0.98,20.3,2018,act
+Ohio,1.0,20.3,2018,act
+Oklahoma,1.0,19.3,2018,act
+Oregon,0.42,21.3,2018,act
+Pennsylvania,0.2,23.5,2018,act
+Rhode Island,0.15,24.2,2018,act
+South Carolina,1.0,18.3,2018,act
+South Dakota,0.77,21.9,2018,act
+Tennessee,1.0,19.6,2018,act
+Texas,0.45,20.7,2018,act
+Utah,1.0,20.4,2018,act
+Vermont,0.24,24.1,2018,act
+Virginia,0.24,23.9,2018,act
+Washington,0.24,22.2,2018,act
+West Virginia,0.65,20.3,2018,act
+Wisconsin,1.0,20.5,2018,act
+Wyoming,1.0,20.0,2018,act
+Alabama,1.0,18.9,2019,act
+Alaska,0.38,20.1,2019,act
+Arizona,0.73,19.0,2019,act
+Arkansas,1.0,19.3,2019,act
+California,0.23,22.6,2019,act
+Colorado,0.27,23.8,2019,act
+Connecticut,0.22,25.5,2019,act
+Delaware,0.13,24.1,2019,act
+District of Columbia,0.32,23.5,2019,act
+Florida,0.54,20.1,2019,act
+Georgia,0.49,21.4,2019,act
+Hawaii,0.8,19.0,2019,act
+Idaho,0.31,22.5,2019,act
+Illinois,0.35,24.3,2019,act
+Indiana,0.29,22.5,2019,act
+Iowa,0.66,21.6,2019,act
+Kansas,0.72,21.2,2019,act
+Kentucky,1.0,19.8,2019,act
+Louisiana,1.0,18.8,2019,act
+Maine,0.06,24.3,2019,act
+Maryland,0.28,22.3,2019,act
+Massachusetts,0.21,25.5,2019,act
+Michigan,0.19,24.4,2019,act
+Minnesota,0.95,21.4,2019,act
+Mississippi,1.0,18.4,2019,act
+Missouri,0.82,20.8,2019,act
+Montana,1.0,19.8,2019,act
+Nebraska,1.0,20.0,2019,act
+Nevada,1.0,17.9,2019,act
+New Hampshire,0.14,25.0,2019,act
+New Jersey,0.25,24.2,2019,act
+New Mexico,0.63,19.3,2019,act
+New York,0.22,24.5,2019,act
+North Carolina,1.0,19.0,2019,act
+North Dakota,0.96,19.9,2019,act
+Ohio,1.0,20.0,2019,act
+Oklahoma,1.0,18.9,2019,act
+Oregon,0.42,21.1,2019,act
+Pennsylvania,0.17,23.6,2019,act
+Rhode Island,0.12,24.7,2019,act
+South Carolina,0.78,18.8,2019,act
+South Dakota,0.75,21.6,2019,act
+Tennessee,1.0,19.4,2019,act
+Texas,0.39,20.5,2019,act
+Utah,1.0,20.3,2019,act
+Vermont,0.2,24.1,2019,act
+Virginia,0.21,24.0,2019,act
+Washington,0.24,22.1,2019,act
+West Virginia,0.49,20.8,2019,act
+Wisconsin,1.0,20.3,2019,act
+Wyoming,1.0,19.8,2019,act
